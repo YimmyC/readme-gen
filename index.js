@@ -9,6 +9,12 @@ const questions = [
     message: "What is your github username?",
     name: "title",
   },
+  {
+    type: "list",
+    message: "What is the license type?",
+    name: "license",
+    choices: ["MIT", "APM", "Bower", "None"],
+  },
 ];
 
 // TODO: Create a function to write README file

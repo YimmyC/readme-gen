@@ -1,2 +1,2 @@
-# it works test
-This will be a badge
+# test title
+ ![license](https://img.shields.io/badge/license-MIT-blue.png)
